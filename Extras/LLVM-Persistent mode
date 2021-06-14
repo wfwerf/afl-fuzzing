@@ -1,0 +1,9 @@
+while (__AFL_LOOP(1000)) {
+
+    /* Read input data.  */
+    /* Call Library code to be fuzzed. */
+    /* Reset state */
+    
+}
+
+/* Exit normally */
