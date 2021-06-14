@@ -1,0 +1,5 @@
+#ifdef _AFL_HAVE_MANUAL_CONTROL
+ __AFL_INIT();
+
+#endif
+
